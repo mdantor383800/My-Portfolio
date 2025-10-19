@@ -23,7 +23,7 @@ export default function Home() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.4, delay: 2, ease: "easeIn" }}
 
-            className="order-2 xl:order-none text-[24px]"><span>Front-end Web Development</span>
+            className="order-2 xl:order-none text-[24px]"><span>Front-end Web Developer</span>
             <h1 className="h1">Hello I'm <br /><span className="text-teal-500">Md Arif</span></h1>
             <p className="max-w-[500px] mb-9 text-[20px] text-white/80">I excel at crafting elegant digital experiences and I am proficient in various languages and technologies.</p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
